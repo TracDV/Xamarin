@@ -1,0 +1,12 @@
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/App.xaml.g.cs
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/GreenPage.xaml.g.cs
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/MainPage.xaml.g.cs
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/Demo.csproj.CoreCompileInputs.cache
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/Demo.AssemblyInfoInputs.cache
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/Demo.AssemblyInfo.cs
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/Demo.dll
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/Demo.pdb
+/Users/tracdv/Projects/Xamarin/Demo/Demo/bin/Debug/netstandard2.0/Demo.deps.json
+/Users/tracdv/Projects/Xamarin/Demo/Demo/bin/Debug/netstandard2.0/Demo.dll
+/Users/tracdv/Projects/Xamarin/Demo/Demo/bin/Debug/netstandard2.0/Demo.pdb
+/Users/tracdv/Projects/Xamarin/Demo/Demo/obj/Debug/netstandard2.0/XamlC.stamp
